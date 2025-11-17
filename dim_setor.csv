@@ -1,0 +1,7 @@
+id_setor,nome_setor,tipo_unidade
+1,Clínica Médica,Hospitalar
+2,UTI,Hospitalar
+3,Pediatria,Clínica
+4,Ortopedia,Clínica
+5,Cirurgia,Clínica
+6,Maternidade,Hospitalar

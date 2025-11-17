@@ -1,0 +1,201 @@
+id_medico,especialidade,tempo_casa_anos
+1,Clínico Geral,19
+2,Pediatra,16
+3,Ginecologista,13
+4,Ortopedista,5
+5,Cardiologista,12
+6,Ortopedista,7
+7,Ortopedista,9
+8,Ortopedista,5
+9,Ortopedista,4
+10,Clínico Geral,10
+11,Pediatra,16
+12,Pediatra,11
+13,Ortopedista,9
+14,Cardiologista,5
+15,Cirurgião,11
+16,Ortopedista,9
+17,Ortopedista,17
+18,Cardiologista,11
+19,Clínico Geral,6
+20,Ortopedista,16
+21,Cardiologista,19
+22,Clínico Geral,14
+23,Clínico Geral,3
+24,Ginecologista,10
+25,Ginecologista,4
+26,Ginecologista,2
+27,Ortopedista,13
+28,Clínico Geral,11
+29,Ortopedista,12
+30,Ortopedista,1
+31,Pediatra,9
+32,Cirurgião,12
+33,Cirurgião,7
+34,Pediatra,17
+35,Ortopedista,10
+36,Cardiologista,6
+37,Clínico Geral,7
+38,Pediatra,19
+39,Ginecologista,14
+40,Pediatra,11
+41,Pediatra,2
+42,Pediatra,1
+43,Cirurgião,10
+44,Ortopedista,12
+45,Pediatra,9
+46,Pediatra,11
+47,Pediatra,1
+48,Cardiologista,10
+49,Cardiologista,19
+50,Clínico Geral,11
+51,Ortopedista,3
+52,Pediatra,16
+53,Clínico Geral,10
+54,Ginecologista,2
+55,Clínico Geral,19
+56,Ginecologista,4
+57,Ginecologista,16
+58,Ortopedista,6
+59,Cardiologista,11
+60,Ortopedista,17
+61,Clínico Geral,15
+62,Ginecologista,4
+63,Ortopedista,8
+64,Cardiologista,18
+65,Clínico Geral,14
+66,Ortopedista,2
+67,Pediatra,16
+68,Pediatra,15
+69,Ortopedista,6
+70,Ortopedista,9
+71,Ginecologista,12
+72,Ginecologista,10
+73,Cardiologista,7
+74,Clínico Geral,5
+75,Ortopedista,8
+76,Clínico Geral,12
+77,Pediatra,1
+78,Clínico Geral,10
+79,Cirurgião,11
+80,Cardiologista,5
+81,Cardiologista,13
+82,Clínico Geral,18
+83,Cardiologista,10
+84,Clínico Geral,17
+85,Clínico Geral,19
+86,Pediatra,4
+87,Clínico Geral,9
+88,Cardiologista,18
+89,Cirurgião,16
+90,Ortopedista,7
+91,Cardiologista,12
+92,Cirurgião,4
+93,Cardiologista,12
+94,Cirurgião,12
+95,Cardiologista,4
+96,Ortopedista,12
+97,Pediatra,8
+98,Pediatra,3
+99,Ortopedista,16
+100,Cardiologista,2
+101,Cirurgião,6
+102,Clínico Geral,17
+103,Cardiologista,12
+104,Ortopedista,9
+105,Ginecologista,16
+106,Pediatra,7
+107,Pediatra,8
+108,Cardiologista,7
+109,Cirurgião,5
+110,Ortopedista,7
+111,Ortopedista,18
+112,Cirurgião,18
+113,Cirurgião,16
+114,Cardiologista,7
+115,Cardiologista,2
+116,Ginecologista,17
+117,Pediatra,8
+118,Pediatra,2
+119,Cirurgião,18
+120,Clínico Geral,19
+121,Clínico Geral,9
+122,Clínico Geral,12
+123,Ortopedista,19
+124,Cardiologista,8
+125,Cirurgião,8
+126,Pediatra,10
+127,Clínico Geral,18
+128,Pediatra,15
+129,Cardiologista,11
+130,Ginecologista,14
+131,Ginecologista,15
+132,Cirurgião,14
+133,Clínico Geral,12
+134,Clínico Geral,4
+135,Ginecologista,3
+136,Cirurgião,12
+137,Pediatra,7
+138,Cardiologista,7
+139,Ginecologista,19
+140,Ginecologista,14
+141,Cardiologista,1
+142,Cardiologista,7
+143,Ginecologista,10
+144,Pediatra,18
+145,Pediatra,13
+146,Clínico Geral,8
+147,Pediatra,9
+148,Ortopedista,15
+149,Cirurgião,8
+150,Pediatra,1
+151,Cardiologista,3
+152,Pediatra,19
+153,Clínico Geral,9
+154,Cirurgião,19
+155,Cirurgião,15
+156,Cardiologista,14
+157,Cirurgião,1
+158,Ortopedista,3
+159,Cirurgião,2
+160,Ginecologista,1
+161,Cardiologista,18
+162,Cirurgião,1
+163,Pediatra,9
+164,Clínico Geral,7
+165,Ginecologista,13
+166,Ginecologista,17
+167,Pediatra,13
+168,Ginecologista,13
+169,Ortopedista,10
+170,Ortopedista,6
+171,Clínico Geral,5
+172,Clínico Geral,10
+173,Clínico Geral,14
+174,Clínico Geral,11
+175,Cirurgião,5
+176,Ginecologista,4
+177,Pediatra,3
+178,Ortopedista,14
+179,Cirurgião,13
+180,Clínico Geral,5
+181,Cardiologista,12
+182,Cardiologista,10
+183,Pediatra,2
+184,Ortopedista,7
+185,Ortopedista,7
+186,Pediatra,4
+187,Clínico Geral,12
+188,Clínico Geral,4
+189,Ginecologista,7
+190,Ortopedista,13
+191,Ortopedista,8
+192,Ortopedista,14
+193,Clínico Geral,3
+194,Cardiologista,2
+195,Pediatra,10
+196,Pediatra,6
+197,Cirurgião,7
+198,Cirurgião,16
+199,Cardiologista,6
+200,Ortopedista,16

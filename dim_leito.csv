@@ -1,0 +1,401 @@
+id_leito,tipo_leito,status,unidade
+1,UTI,Disponível,Ortopedia
+2,Apartamento,Ocupado,Ortopedia
+3,UTI,Disponível,Cirurgia
+4,Apartamento,Disponível,Ortopedia
+5,UTI,Ocupado,UTI
+6,Apartamento,Ocupado,Pediatria
+7,UTI,Disponível,Cirurgia
+8,UTI,Ocupado,Clínica Médica
+9,Apartamento,Ocupado,Cirurgia
+10,Enfermaria,Ocupado,Ortopedia
+11,Apartamento,Ocupado,UTI
+12,Apartamento,Disponível,Clínica Médica
+13,Enfermaria,Disponível,Cirurgia
+14,UTI,Ocupado,Ortopedia
+15,Enfermaria,Disponível,Cirurgia
+16,Apartamento,Disponível,Clínica Médica
+17,Enfermaria,Disponível,Ortopedia
+18,UTI,Disponível,Pediatria
+19,Apartamento,Disponível,Maternidade
+20,Apartamento,Disponível,Clínica Médica
+21,UTI,Ocupado,Pediatria
+22,UTI,Disponível,Pediatria
+23,Apartamento,Disponível,Ortopedia
+24,UTI,Ocupado,Cirurgia
+25,Enfermaria,Ocupado,Cirurgia
+26,Enfermaria,Disponível,UTI
+27,Enfermaria,Disponível,Clínica Médica
+28,Enfermaria,Disponível,Clínica Médica
+29,UTI,Disponível,Ortopedia
+30,Enfermaria,Ocupado,Ortopedia
+31,Enfermaria,Ocupado,UTI
+32,Apartamento,Ocupado,UTI
+33,UTI,Ocupado,Pediatria
+34,UTI,Ocupado,Maternidade
+35,UTI,Ocupado,UTI
+36,Apartamento,Disponível,Cirurgia
+37,Apartamento,Disponível,Pediatria
+38,UTI,Disponível,Maternidade
+39,Enfermaria,Ocupado,UTI
+40,Apartamento,Disponível,Maternidade
+41,Apartamento,Ocupado,Cirurgia
+42,Apartamento,Ocupado,Cirurgia
+43,UTI,Disponível,Pediatria
+44,Enfermaria,Disponível,Pediatria
+45,Apartamento,Disponível,Cirurgia
+46,Apartamento,Disponível,Ortopedia
+47,UTI,Ocupado,Pediatria
+48,Enfermaria,Disponível,Clínica Médica
+49,Apartamento,Ocupado,Ortopedia
+50,UTI,Ocupado,Clínica Médica
+51,UTI,Disponível,Maternidade
+52,Apartamento,Ocupado,Maternidade
+53,UTI,Disponível,Maternidade
+54,UTI,Ocupado,UTI
+55,Apartamento,Ocupado,Pediatria
+56,UTI,Ocupado,Pediatria
+57,Enfermaria,Disponível,Cirurgia
+58,Enfermaria,Disponível,Pediatria
+59,Apartamento,Disponível,Maternidade
+60,Enfermaria,Disponível,Clínica Médica
+61,Enfermaria,Ocupado,Ortopedia
+62,Apartamento,Disponível,UTI
+63,UTI,Ocupado,Ortopedia
+64,Enfermaria,Disponível,Clínica Médica
+65,UTI,Ocupado,UTI
+66,Apartamento,Ocupado,Cirurgia
+67,Enfermaria,Ocupado,Pediatria
+68,Apartamento,Ocupado,Pediatria
+69,UTI,Ocupado,Cirurgia
+70,Apartamento,Ocupado,Clínica Médica
+71,Enfermaria,Disponível,Cirurgia
+72,Apartamento,Ocupado,Maternidade
+73,Apartamento,Disponível,Clínica Médica
+74,Apartamento,Disponível,UTI
+75,UTI,Disponível,Ortopedia
+76,UTI,Ocupado,Ortopedia
+77,UTI,Ocupado,Cirurgia
+78,UTI,Ocupado,Pediatria
+79,Enfermaria,Ocupado,Cirurgia
+80,UTI,Ocupado,Pediatria
+81,UTI,Disponível,Cirurgia
+82,Enfermaria,Ocupado,Cirurgia
+83,UTI,Disponível,Ortopedia
+84,Apartamento,Ocupado,Maternidade
+85,UTI,Ocupado,Pediatria
+86,Enfermaria,Disponível,Maternidade
+87,Apartamento,Disponível,Maternidade
+88,Enfermaria,Ocupado,Maternidade
+89,Apartamento,Ocupado,Ortopedia
+90,Apartamento,Disponível,Maternidade
+91,Apartamento,Ocupado,Pediatria
+92,Enfermaria,Ocupado,UTI
+93,Apartamento,Ocupado,Maternidade
+94,Apartamento,Ocupado,Maternidade
+95,Apartamento,Ocupado,UTI
+96,Apartamento,Ocupado,Maternidade
+97,Apartamento,Disponível,UTI
+98,UTI,Ocupado,Clínica Médica
+99,Enfermaria,Disponível,Ortopedia
+100,Apartamento,Ocupado,Ortopedia
+101,Apartamento,Disponível,UTI
+102,Apartamento,Ocupado,Cirurgia
+103,Apartamento,Disponível,Ortopedia
+104,Apartamento,Disponível,Pediatria
+105,UTI,Ocupado,Ortopedia
+106,UTI,Disponível,Ortopedia
+107,Apartamento,Disponível,Pediatria
+108,Apartamento,Ocupado,UTI
+109,Apartamento,Ocupado,UTI
+110,Enfermaria,Disponível,Pediatria
+111,Enfermaria,Ocupado,Ortopedia
+112,UTI,Disponível,Maternidade
+113,UTI,Ocupado,Ortopedia
+114,Enfermaria,Disponível,UTI
+115,Apartamento,Disponível,Maternidade
+116,UTI,Disponível,Clínica Médica
+117,Apartamento,Disponível,UTI
+118,Apartamento,Ocupado,Pediatria
+119,UTI,Disponível,Maternidade
+120,Enfermaria,Ocupado,Clínica Médica
+121,Enfermaria,Ocupado,Clínica Médica
+122,Enfermaria,Disponível,Pediatria
+123,Apartamento,Disponível,Maternidade
+124,Apartamento,Disponível,Cirurgia
+125,Apartamento,Disponível,UTI
+126,Enfermaria,Ocupado,Ortopedia
+127,Apartamento,Disponível,Maternidade
+128,UTI,Disponível,UTI
+129,Apartamento,Ocupado,Pediatria
+130,UTI,Ocupado,Ortopedia
+131,Enfermaria,Disponível,Cirurgia
+132,Apartamento,Disponível,Pediatria
+133,Apartamento,Disponível,UTI
+134,Enfermaria,Disponível,Clínica Médica
+135,Apartamento,Disponível,Pediatria
+136,UTI,Disponível,Pediatria
+137,Enfermaria,Disponível,UTI
+138,UTI,Disponível,Cirurgia
+139,Enfermaria,Disponível,UTI
+140,UTI,Disponível,UTI
+141,UTI,Ocupado,Cirurgia
+142,UTI,Ocupado,Cirurgia
+143,Apartamento,Disponível,Pediatria
+144,Apartamento,Disponível,Clínica Médica
+145,Apartamento,Disponível,UTI
+146,Apartamento,Disponível,Clínica Médica
+147,Apartamento,Disponível,Cirurgia
+148,UTI,Ocupado,Cirurgia
+149,Apartamento,Disponível,UTI
+150,UTI,Ocupado,Pediatria
+151,Enfermaria,Disponível,UTI
+152,UTI,Disponível,Pediatria
+153,Apartamento,Disponível,Ortopedia
+154,Enfermaria,Disponível,Pediatria
+155,Apartamento,Disponível,UTI
+156,Enfermaria,Disponível,UTI
+157,UTI,Disponível,Pediatria
+158,Enfermaria,Disponível,Clínica Médica
+159,Apartamento,Ocupado,Pediatria
+160,Enfermaria,Disponível,Ortopedia
+161,UTI,Disponível,Ortopedia
+162,Enfermaria,Disponível,Clínica Médica
+163,UTI,Disponível,Ortopedia
+164,Enfermaria,Disponível,UTI
+165,UTI,Ocupado,Clínica Médica
+166,UTI,Disponível,Clínica Médica
+167,UTI,Ocupado,Clínica Médica
+168,UTI,Ocupado,Maternidade
+169,Apartamento,Disponível,Pediatria
+170,UTI,Ocupado,Pediatria
+171,Apartamento,Disponível,Clínica Médica
+172,UTI,Ocupado,Ortopedia
+173,Enfermaria,Disponível,Maternidade
+174,Enfermaria,Ocupado,Maternidade
+175,Apartamento,Disponível,UTI
+176,Enfermaria,Ocupado,UTI
+177,UTI,Ocupado,Pediatria
+178,Enfermaria,Disponível,Cirurgia
+179,Apartamento,Ocupado,Clínica Médica
+180,Enfermaria,Ocupado,Cirurgia
+181,Apartamento,Ocupado,UTI
+182,UTI,Ocupado,Pediatria
+183,UTI,Disponível,Pediatria
+184,Enfermaria,Ocupado,Pediatria
+185,Enfermaria,Disponível,Pediatria
+186,Enfermaria,Disponível,Pediatria
+187,UTI,Ocupado,Clínica Médica
+188,Enfermaria,Ocupado,Maternidade
+189,UTI,Disponível,Cirurgia
+190,Apartamento,Disponível,Maternidade
+191,Enfermaria,Disponível,UTI
+192,Enfermaria,Ocupado,UTI
+193,Apartamento,Ocupado,Maternidade
+194,Apartamento,Ocupado,Pediatria
+195,Apartamento,Disponível,Pediatria
+196,Apartamento,Ocupado,Maternidade
+197,UTI,Disponível,Pediatria
+198,Enfermaria,Disponível,Maternidade
+199,UTI,Disponível,Ortopedia
+200,UTI,Disponível,UTI
+201,Apartamento,Disponível,Pediatria
+202,Enfermaria,Ocupado,Cirurgia
+203,UTI,Disponível,Ortopedia
+204,UTI,Ocupado,Clínica Médica
+205,Apartamento,Disponível,Ortopedia
+206,Enfermaria,Ocupado,Ortopedia
+207,Enfermaria,Ocupado,Ortopedia
+208,Enfermaria,Disponível,Cirurgia
+209,UTI,Ocupado,UTI
+210,Apartamento,Ocupado,Pediatria
+211,Enfermaria,Disponível,Cirurgia
+212,UTI,Disponível,Cirurgia
+213,UTI,Disponível,Maternidade
+214,Enfermaria,Ocupado,Pediatria
+215,Apartamento,Ocupado,Maternidade
+216,Apartamento,Ocupado,Maternidade
+217,Enfermaria,Disponível,Ortopedia
+218,UTI,Ocupado,Maternidade
+219,Apartamento,Disponível,Clínica Médica
+220,UTI,Disponível,Ortopedia
+221,UTI,Ocupado,Ortopedia
+222,Apartamento,Ocupado,Maternidade
+223,UTI,Disponível,Maternidade
+224,UTI,Disponível,UTI
+225,Enfermaria,Ocupado,Ortopedia
+226,Apartamento,Disponível,Clínica Médica
+227,UTI,Disponível,Cirurgia
+228,Apartamento,Ocupado,Maternidade
+229,Apartamento,Disponível,Ortopedia
+230,UTI,Ocupado,Cirurgia
+231,Apartamento,Ocupado,Maternidade
+232,Enfermaria,Ocupado,UTI
+233,Enfermaria,Disponível,Maternidade
+234,UTI,Ocupado,Clínica Médica
+235,Apartamento,Ocupado,Pediatria
+236,UTI,Ocupado,Pediatria
+237,Apartamento,Ocupado,Maternidade
+238,UTI,Ocupado,UTI
+239,UTI,Ocupado,Clínica Médica
+240,Apartamento,Disponível,Maternidade
+241,Enfermaria,Disponível,Cirurgia
+242,UTI,Disponível,UTI
+243,Enfermaria,Disponível,Ortopedia
+244,Apartamento,Ocupado,Cirurgia
+245,UTI,Disponível,Maternidade
+246,Apartamento,Disponível,Ortopedia
+247,Enfermaria,Disponível,Ortopedia
+248,Apartamento,Ocupado,Cirurgia
+249,UTI,Ocupado,Ortopedia
+250,Enfermaria,Ocupado,Pediatria
+251,UTI,Disponível,Cirurgia
+252,Enfermaria,Ocupado,UTI
+253,Apartamento,Ocupado,Pediatria
+254,Apartamento,Ocupado,UTI
+255,UTI,Disponível,Clínica Médica
+256,UTI,Ocupado,UTI
+257,UTI,Disponível,Cirurgia
+258,Enfermaria,Disponível,UTI
+259,Enfermaria,Ocupado,Clínica Médica
+260,UTI,Ocupado,Ortopedia
+261,Enfermaria,Ocupado,Cirurgia
+262,Enfermaria,Ocupado,Maternidade
+263,Apartamento,Disponível,Pediatria
+264,Apartamento,Disponível,Pediatria
+265,Apartamento,Disponível,UTI
+266,UTI,Disponível,Pediatria
+267,Apartamento,Ocupado,Clínica Médica
+268,Apartamento,Disponível,Maternidade
+269,Enfermaria,Disponível,Pediatria
+270,Apartamento,Ocupado,UTI
+271,Enfermaria,Disponível,Pediatria
+272,Apartamento,Ocupado,Ortopedia
+273,UTI,Ocupado,Ortopedia
+274,UTI,Ocupado,Pediatria
+275,Apartamento,Disponível,Cirurgia
+276,Apartamento,Ocupado,Maternidade
+277,Apartamento,Ocupado,Pediatria
+278,UTI,Ocupado,Ortopedia
+279,Enfermaria,Disponível,Ortopedia
+280,Enfermaria,Disponível,Clínica Médica
+281,Apartamento,Ocupado,UTI
+282,UTI,Disponível,Clínica Médica
+283,Enfermaria,Disponível,Cirurgia
+284,Apartamento,Disponível,UTI
+285,UTI,Disponível,Pediatria
+286,UTI,Disponível,Pediatria
+287,Enfermaria,Ocupado,Cirurgia
+288,UTI,Disponível,Maternidade
+289,Apartamento,Disponível,Ortopedia
+290,Apartamento,Disponível,Maternidade
+291,Enfermaria,Disponível,Pediatria
+292,UTI,Ocupado,Clínica Médica
+293,Enfermaria,Ocupado,Ortopedia
+294,Enfermaria,Disponível,Pediatria
+295,UTI,Ocupado,Ortopedia
+296,Enfermaria,Disponível,Maternidade
+297,UTI,Disponível,UTI
+298,Apartamento,Ocupado,Pediatria
+299,Enfermaria,Ocupado,Pediatria
+300,UTI,Disponível,Ortopedia
+301,UTI,Disponível,UTI
+302,UTI,Ocupado,Clínica Médica
+303,Enfermaria,Disponível,UTI
+304,Apartamento,Disponível,Clínica Médica
+305,Enfermaria,Ocupado,Cirurgia
+306,Apartamento,Ocupado,Maternidade
+307,Enfermaria,Ocupado,UTI
+308,Enfermaria,Disponível,Clínica Médica
+309,Enfermaria,Disponível,Ortopedia
+310,Apartamento,Ocupado,Clínica Médica
+311,UTI,Ocupado,Cirurgia
+312,Enfermaria,Disponível,Clínica Médica
+313,Enfermaria,Disponível,Maternidade
+314,Apartamento,Disponível,UTI
+315,Enfermaria,Ocupado,Clínica Médica
+316,UTI,Ocupado,UTI
+317,UTI,Disponível,Cirurgia
+318,Apartamento,Disponível,Clínica Médica
+319,Apartamento,Disponível,Clínica Médica
+320,UTI,Disponível,Cirurgia
+321,UTI,Ocupado,Maternidade
+322,UTI,Ocupado,Clínica Médica
+323,Apartamento,Ocupado,UTI
+324,UTI,Ocupado,Maternidade
+325,UTI,Ocupado,Pediatria
+326,UTI,Disponível,Maternidade
+327,Enfermaria,Ocupado,Pediatria
+328,Apartamento,Ocupado,UTI
+329,Apartamento,Ocupado,Clínica Médica
+330,Apartamento,Disponível,UTI
+331,Apartamento,Disponível,Cirurgia
+332,Enfermaria,Ocupado,UTI
+333,Enfermaria,Ocupado,Pediatria
+334,Enfermaria,Ocupado,Maternidade
+335,Enfermaria,Ocupado,Ortopedia
+336,Enfermaria,Disponível,Cirurgia
+337,Apartamento,Ocupado,Clínica Médica
+338,Apartamento,Ocupado,Maternidade
+339,Apartamento,Ocupado,UTI
+340,Enfermaria,Ocupado,Cirurgia
+341,UTI,Disponível,Pediatria
+342,Apartamento,Ocupado,Clínica Médica
+343,Apartamento,Ocupado,UTI
+344,UTI,Ocupado,Maternidade
+345,Enfermaria,Ocupado,UTI
+346,UTI,Ocupado,Clínica Médica
+347,UTI,Disponível,Maternidade
+348,Apartamento,Disponível,Ortopedia
+349,Apartamento,Ocupado,Ortopedia
+350,Enfermaria,Disponível,Cirurgia
+351,UTI,Ocupado,UTI
+352,Enfermaria,Ocupado,Cirurgia
+353,UTI,Ocupado,Clínica Médica
+354,Apartamento,Ocupado,Maternidade
+355,UTI,Ocupado,Cirurgia
+356,Enfermaria,Ocupado,UTI
+357,UTI,Disponível,Ortopedia
+358,Enfermaria,Ocupado,Ortopedia
+359,UTI,Disponível,Clínica Médica
+360,Apartamento,Disponível,Pediatria
+361,Apartamento,Disponível,Cirurgia
+362,Enfermaria,Ocupado,Clínica Médica
+363,Apartamento,Ocupado,Ortopedia
+364,UTI,Ocupado,UTI
+365,UTI,Ocupado,UTI
+366,Apartamento,Ocupado,Maternidade
+367,Enfermaria,Disponível,Pediatria
+368,UTI,Disponível,Pediatria
+369,Enfermaria,Ocupado,Ortopedia
+370,UTI,Disponível,Pediatria
+371,Enfermaria,Disponível,Pediatria
+372,Enfermaria,Ocupado,UTI
+373,UTI,Ocupado,Maternidade
+374,UTI,Ocupado,Cirurgia
+375,Enfermaria,Disponível,UTI
+376,UTI,Disponível,Maternidade
+377,Apartamento,Disponível,UTI
+378,UTI,Disponível,Ortopedia
+379,Enfermaria,Disponível,Maternidade
+380,UTI,Disponível,Maternidade
+381,UTI,Disponível,Ortopedia
+382,Enfermaria,Ocupado,Maternidade
+383,UTI,Disponível,Cirurgia
+384,Enfermaria,Ocupado,Clínica Médica
+385,Enfermaria,Ocupado,Pediatria
+386,Enfermaria,Disponível,Maternidade
+387,Enfermaria,Disponível,Pediatria
+388,Apartamento,Ocupado,UTI
+389,Apartamento,Disponível,UTI
+390,Enfermaria,Ocupado,Maternidade
+391,UTI,Disponível,Maternidade
+392,Apartamento,Disponível,Maternidade
+393,Enfermaria,Ocupado,Cirurgia
+394,Apartamento,Ocupado,Maternidade
+395,Enfermaria,Ocupado,Pediatria
+396,Apartamento,Ocupado,UTI
+397,Enfermaria,Disponível,UTI
+398,Apartamento,Ocupado,Maternidade
+399,Apartamento,Ocupado,Ortopedia
+400,UTI,Ocupado,Clínica Médica
