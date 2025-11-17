@@ -88,6 +88,8 @@ Dashboard com storytelling, KPIs, insights e recomendações.
 
 # 📊 4. Dashboards Criados
 
+<img width="1045" height="801" alt="p1Captura de tela 2025-11-17 100232" src="https://github.com/user-attachments/assets/32e04867-0040-41d7-9771-63831316dd0b" />
+
 ## **📘 Dashboard Financeiro**
 KPIs:
 - Receita Líquida Total  
@@ -103,6 +105,9 @@ Principais visuais:
 ---
 
 ## **📗 Dashboard Assistencial**
+
+<img width="1047" height="798" alt="p2Captura de tela 2025-11-17 100303" src="https://github.com/user-attachments/assets/946e2a97-ff2f-4672-b3e0-5f361c32134e" />
+
 KPIs:
 - Internações  
 - Tempo Médio de Internação  
@@ -117,6 +122,9 @@ Visuais:
 ---
 
 ## **📙 Dashboard Eficiência Operacional**
+
+<img width="1045" height="801" alt="p3Captura de tela 2025-11-17 100340" src="https://github.com/user-attachments/assets/c825fa1a-096a-4c42-9881-c876679b45a4" />
+
 KPIs:
 - Nº de Atendimentos  
 - Tempo Médio de Espera (HH:MM)  
@@ -129,17 +137,6 @@ Visuais:
 
 ---
 
-## **📕 Dashboard Governança**
-KPIs:
-- Usuários Ativos  
-- % Dashboards Atualizados  
-- Acessos por Área  
-
-Visuais:
-- Linha temporal de acessos  
-- Barras de uso  
-
----
 
 # 🧮 5. Fórmulas DAX 
 
