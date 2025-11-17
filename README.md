@@ -251,5 +251,6 @@ Deploy em Power BI Service
 Se quiser conversar sobre dados, BI, Power BI ou saúde:
 
 Autor: Guilherme Alencar Cruz da Silva
+
 LinkedIn: (https://www.linkedin.com/in/guilherme-alencar-327413213/)
 
