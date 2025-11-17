@@ -88,25 +88,10 @@ Dashboard com storytelling, KPIs, insights e recomendações.
 
 # 📊 4. Dashboards Criados
 
-<img width="1045" height="801" alt="p1Captura de tela 2025-11-17 100232" src="https://github.com/user-attachments/assets/32e04867-0040-41d7-9771-63831316dd0b" />
-
-## **📘 Dashboard Financeiro**
-KPIs:
-- Receita Líquida Total  
-- Custo Total  
-- Margem Operacional (%)  
-
-Principais visuais:
-- Receita × Custo (linha)  
-- Receita por Convênio (barras)  
-- Margem por Convênio (colunas)  
-- Gauge de Margem  
-
----
 
 ## **📗 Dashboard Assistencial**
 
-<img width="1047" height="798" alt="p2Captura de tela 2025-11-17 100303" src="https://github.com/user-attachments/assets/946e2a97-ff2f-4672-b3e0-5f361c32134e" />
+<img width="1045" height="801" alt="p1Captura de tela 2025-11-17 100232" src="https://github.com/user-attachments/assets/a3bb1a39-0190-4f71-be4c-52344c0baf66" />
 
 KPIs:
 - Internações  
@@ -120,6 +105,24 @@ Visuais:
 - Tipo de internação (rosca)  
 
 ---
+
+## **📘 Dashboard Financeiro**
+
+<img width="1047" height="798" alt="p2Captura de tela 2025-11-17 100303" src="https://github.com/user-attachments/assets/946e2a97-ff2f-4672-b3e0-5f361c32134e" />
+
+KPIs:
+- Receita Líquida Total  
+- Custo Total  
+- Margem Operacional (%)  
+
+Principais visuais:
+- Receita × Custo (linha)  
+- Receita por Convênio (barras)  
+- Margem por Convênio (colunas)  
+- Gauge de Margem  
+
+---
+
 
 ## **📙 Dashboard Eficiência Operacional**
 
