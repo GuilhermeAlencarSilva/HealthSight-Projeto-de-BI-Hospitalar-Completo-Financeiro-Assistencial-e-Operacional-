@@ -126,7 +126,8 @@ Principais visuais:
 
 ## **📙 Dashboard Eficiência Operacional**
 
-<img width="1045" height="801" alt="p3Captura de tela 2025-11-17 100340" src="https://github.com/user-attachments/assets/c825fa1a-096a-4c42-9881-c876679b45a4" />
+<img width="1046" height="800" alt="p3Captura de tela 2025-11-17 100340" src="https://github.com/user-attachments/assets/0606a83b-0bf9-4ebc-ae0a-b3952a687237" />
+
 
 KPIs:
 - Nº de Atendimentos  
